@@ -1,0 +1,17 @@
+---
+title: Teaching
+---
+
+## Development and Physiology Lab (BIOL216L: Fall 2022)
+
+Experiment based laboratory class to understand the complex interactions governing the basic physiology and development of organisms. 
+
+**Role:** Instructor and Grader for a section
+
+## Gene, Ecology and Evolution Lab (BIOL214L: Spring 2023, Fall 2023)
+
+Experiment based laboratory class focusing on biological molecules (with a focus on DNA and RNA); basics of cell structure; molecular genetics; biotechnology; population genetics and evolution; ecology.
+
+**Role:** Instructor and Grader for a section
+
+----
