@@ -1,0 +1,39 @@
+---
+title: "Manish Sarkar"
+about:
+  template: trestles
+  id: about-block
+  image: "img/manish_sarkar.jpg"
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/manishNsarkar
+    - icon: envelope
+      text: Email
+      href: "mailto:manish.sarkar@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Bio
+
+I am Manish, a second year PhD student in Dr. Karen Abbott's lab at Case Western Reserve University. I completed my undergraduate and master's degree in Mathematics but I was more interested in applying my analytical skills to understand ecological questions. Currently, I am working on mathematical models to understand the woodland-grassland transitions in African savannas. I'm also interested in group formation, social dynamics among organisms. Epidemiology, public health related questions entice me as well.
+
+## Education
+
+**Case Western Reserve University, Cleveland, Ohio **
+
+*PhD in Theoretical Ecology | Aug 2022 - present*
+
+**Jadavpur University | Kolkata, India **
+
+*M.Sc in Mathematics | Aug 2019 - July 2021*
+
+**Jadavpur University | Kolkata, India**
+
+*B.Sc in Mathematics | July 2016 - June 2019*
+
+
+
